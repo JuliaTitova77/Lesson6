@@ -62,4 +62,4 @@ docker volume prune -f
 
 Скриншот выполнения:
 
-![Screen_hw_6.png](Screen_hw_6.jpg)
+![Screen_hw_6.png](./Screen_hw_6.png)
